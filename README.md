@@ -1,3 +1,9 @@
-# tryhackme-learning-journey
-Notes,tools, and insights fomr my TryHackMe learning path
+# TryHackMe Learning Journey
+
+This repository contains my personal notes and tools used while working through rooms on TryHackMe.
+
+## Modules Completed
+- Introduction to Cybersecurity ✅
+
+More to come!
 
