@@ -1,2 +1,2 @@
 # tryhackme-learning-journey
-Notes,tools, and insights fomr my TryHackMe learning path
+Notes,tools, and insights from my TryHackMe learning path
