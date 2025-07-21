@@ -21,6 +21,6 @@
 ---
 
 ## 🔄 Next Steps
-- Complete the next room: Network Fundamentals
-- Start experimenting with ping and traceroute
+- Complete the next room: Intro to LAN
+
 
