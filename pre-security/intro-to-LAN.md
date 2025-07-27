@@ -35,11 +35,3 @@
 
 
 
-
----
-
-## 🔄 Next Steps
-- Completing the Room: Intro to LAN
-- Next Task: A Primer on Subnetting 
-
-

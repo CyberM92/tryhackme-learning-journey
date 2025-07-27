@@ -18,9 +18,3 @@
 - Networking is the foundation of cybersecurity
 
 
----
-
-## 🔄 Next Steps
-- Complete the next room: Intro to LAN
-
-
